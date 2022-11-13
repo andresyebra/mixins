@@ -3,10 +3,10 @@
 require_relative 'animal/dog'
 require_relative 'animal/cat'
 
-dog = Dog
-cat = Cat
+dog = Dog.new
+cat = Cat.new
 
-puts dog.new.walk
-puts cat.new.walk
+puts dog.walk
+puts cat.walk
 
 p cat.ancestors
