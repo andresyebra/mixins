@@ -12,4 +12,3 @@ class Cat
     'Cat eating'
   end
 end
-
