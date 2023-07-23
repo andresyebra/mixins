@@ -1,0 +1,15 @@
+lib/extends/extending.rb 3225a7dc84fec991d0a40de2befaa4c6b21f18ec
+lib/include/including.rb 214cf68fd87cc5ecbf16900f210cc2012c285a40
+lib/extends/animal/cat.rb bf63e9f1fab242e7d0d2efd18e16af760825e4bc
+lib/extends/animal/dog.rb 1674a03fc7bce68373cdcb24bc8cc0601776d2ee
+lib/include/animal/cat.rb e2bbde192b911235dc78a617418dc25cf1229874
+lib/include/animal/dog.rb b3cbe43e6f18919377e116813eafeb26ac4a63f3
+lib/prepend/animal/cat.rb 5d397522e3a44abe44b4db7a1915612475739c8d
+lib/prepend/animal/dog.rb 6913e4232d6cc132f862c4f51dce20740c8b43ea
+lib/prepend/prepending.rb 770bfb35dbc4f598a1f5d99bc23647ded25cd9c9
+lib/extends/animal/animal.rb cf40fb7ea8386134ce579d72d6e4f532b7387051
+lib/include/animal/animal.rb 319ddd3b942c3a082eefd245febdd1f2a2acc91a
+lib/namespaces/animal/cat.rb 728ce4c76753ae6a10d61270937ab880a59f811e
+lib/namespaces/animal/dog.rb ec3743d92b00f179e87ea3a0b6ba5a3dc02bd18b
+lib/prepend/animal/animal.rb 319ddd3b942c3a082eefd245febdd1f2a2acc91a
+lib/namespaces/namespacing.rb f847ade35089f9f31cb47467c84dfeb58c8c4703
